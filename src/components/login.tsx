@@ -43,7 +43,6 @@ const Login = () => {
                     onChange={(p) => setPassword(p.target.value)}/>
                 </div>
                 <button style={{backgroundColor:"#2e2d2d",fontSize:"20px", border:"none",borderRadius:"5px",color:"white"}} type="submit">Login</button>
-                <Link to='/signup'><p>SignUp</p></Link>
             </form>
         </div>
         </div>
