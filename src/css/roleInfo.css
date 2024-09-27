@@ -1,0 +1,17 @@
+body {
+  width: 100%;
+  height: 100%;
+  align-items: start;
+}
+
+.navBar {
+  padding: 10px;
+  width: 100%;
+  display: flex;
+  justify-content: end;
+}
+
+.detail-container {
+  width: 100%;
+  height: 100%;
+}
